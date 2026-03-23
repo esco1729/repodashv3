@@ -1,0 +1,11 @@
+pandas
+seaborn
+ipykernel
+openpyxl
+plotly
+statsmodels
+streamlit
+pandas
+pyodbc
+sqlalchemy
+plotly
